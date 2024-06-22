@@ -1,4 +1,4 @@
-﻿namespace MB.Domain
+﻿namespace MB.Domain.ArticleCategoryAgg
 {
     public class ArticleCategory
     {

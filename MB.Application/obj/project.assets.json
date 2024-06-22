@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/MB.Application.contracts.dll": {}
         }
+      },
+      "MB.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MB.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MB.Domain.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../MB.Application.contracts/MB.Application.contracts.csproj",
       "msbuildProject": "../MB.Application.contracts/MB.Application.contracts.csproj"
+    },
+    "MB.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MB.Domain/MB.Domain.csproj",
+      "msbuildProject": "../MB.Domain/MB.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "MB.Application.contracts >= 1.0.0"
+      "MB.Application.contracts >= 1.0.0",
+      "MB.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -60,6 +76,9 @@
           "projectReferences": {
             "D:\\C#\\Practice\\MasterBlog\\MB.Application.contracts\\MB.Application.contracts.csproj": {
               "projectPath": "D:\\C#\\Practice\\MasterBlog\\MB.Application.contracts\\MB.Application.contracts.csproj"
+            },
+            "D:\\C#\\Practice\\MasterBlog\\MB.Domain\\MB.Domain.csproj": {
+              "projectPath": "D:\\C#\\Practice\\MasterBlog\\MB.Domain\\MB.Domain.csproj"
             }
           }
         }

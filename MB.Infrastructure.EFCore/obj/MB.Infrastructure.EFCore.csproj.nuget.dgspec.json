@@ -1,132 +1,9 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Practice\\MasterBlog\\MB.Application\\MB.Application.csproj": {}
+    "D:\\C#\\Practice\\MasterBlog\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Practice\\MasterBlog\\MB.Application.contracts\\MB.Application.contracts.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\C#\\Practice\\MasterBlog\\MB.Application.contracts\\MB.Application.contracts.csproj",
-        "projectName": "MB.Application.contracts",
-        "projectPath": "D:\\C#\\Practice\\MasterBlog\\MB.Application.contracts\\MB.Application.contracts.csproj",
-        "packagesPath": "C:\\Users\\Abolfazl\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Practice\\MasterBlog\\MB.Application.contracts\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Abolfazl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.121\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\C#\\Practice\\MasterBlog\\MB.Application\\MB.Application.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\C#\\Practice\\MasterBlog\\MB.Application\\MB.Application.csproj",
-        "projectName": "MB.Application",
-        "projectPath": "D:\\C#\\Practice\\MasterBlog\\MB.Application\\MB.Application.csproj",
-        "packagesPath": "C:\\Users\\Abolfazl\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Practice\\MasterBlog\\MB.Application\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Abolfazl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "D:\\C#\\Practice\\MasterBlog\\MB.Application.contracts\\MB.Application.contracts.csproj": {
-                "projectPath": "D:\\C#\\Practice\\MasterBlog\\MB.Application.contracts\\MB.Application.contracts.csproj"
-              },
-              "D:\\C#\\Practice\\MasterBlog\\MB.Domain\\MB.Domain.csproj": {
-                "projectPath": "D:\\C#\\Practice\\MasterBlog\\MB.Domain\\MB.Domain.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.121\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
     "D:\\C#\\Practice\\MasterBlog\\MB.Domain\\MB.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -166,6 +43,84 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.121\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\Practice\\MasterBlog\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Practice\\MasterBlog\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
+        "projectName": "MB.Infrastructure.EFCore",
+        "projectPath": "D:\\C#\\Practice\\MasterBlog\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
+        "packagesPath": "C:\\Users\\Abolfazl\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Practice\\MasterBlog\\MB.Infrastructure.EFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abolfazl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\C#\\Practice\\MasterBlog\\MB.Domain\\MB.Domain.csproj": {
+                "projectPath": "D:\\C#\\Practice\\MasterBlog\\MB.Domain\\MB.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
