@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0bd1dbd3-8d44-4a12-bd24-fc16f870dafe": {
+      "ProjectGuid": "0bd1dbd3-8d44-4a12-bd24-fc16f870dafe",
+      "DisplayName": "MB.Domain",
+      "ColorIndex": 0
+    },
+    "ecc58579-b31b-4611-a1b6-aa1013816820": {
+      "ProjectGuid": "ecc58579-b31b-4611-a1b6-aa1013816820",
+      "DisplayName": "MB.Application.contracts",
+      "ColorIndex": 1
+    },
+    "c39f523d-dfed-4ba2-9d47-05b99030c9a5": {
+      "ProjectGuid": "c39f523d-dfed-4ba2-9d47-05b99030c9a5",
+      "DisplayName": "MB.Application",
+      "ColorIndex": 2
+    },
+    "a16c59ae-e5a7-4cca-b00a-2fe10565a24a": {
+      "ProjectGuid": "a16c59ae-e5a7-4cca-b00a-2fe10565a24a",
+      "DisplayName": "MB.Infrastructure.EFCore",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
