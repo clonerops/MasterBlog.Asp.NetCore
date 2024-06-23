@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LF+p7ia7sNa2avHoVlVHRSu3sU49qxDOyDvjGJn96zGPye+nZlPPg7QuhIPTC1AXLZK7I906jXWdKS5HlAy1zw==",
+  "dgSpecHash": "ID35qsW4pE/TxdRHsMR7JHwaVYBWlEpWVR/IgPMC/XtBSyAh62KGGUZLvD2qEs+8cKbfnKx+zW9mTNpb320tSg==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Practice\\MasterBlog\\MB.Application.contracts\\MB.Application.contracts.csproj",
+  "projectFilePath": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application.contracts\\MB.Application.contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

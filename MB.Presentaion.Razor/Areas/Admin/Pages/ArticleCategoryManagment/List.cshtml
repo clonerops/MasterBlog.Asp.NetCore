@@ -1,0 +1,51 @@
+﻿@page
+@model MB.Presentaion.Razor.Areas.Admin.Pages.ArticleCategoryManagment.ListModel
+@{
+}
+
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="float-left">Article Category List</h3>
+        <div class="float-right">
+            <a class="btn btn-success" asp-page="./Create" asp-area="Admin">Add New</a>
+        </div>
+    </div>
+    <div class="card-body">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Title</th>
+                    <th>Status</th>
+                    <th>CreationDate</th>
+                    <th>Operations</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var articleCategory in Model.ArticleCategories)
+                {
+                    <tr>
+                        <td>@articleCategory.Id</td>
+                        <td>@articleCategory.Title</td>
+                        <td>
+                            @if(articleCategory.IsDeleted)
+                            {
+                                <i class="fa fa-close fa-2x text-danger"></i>
+                            } else
+                            {
+                                <i class="fa fa-check fa-2x text-success"></i>
+ 
+                            }
+                        </td>
+                        <td>@articleCategory.CreationDate</td>
+                        <td>
+                            <a class="btn btn-warning" asp-page="./Edit" asp-route-id="@articleCategory.Id">Edit</a>
+                        </td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

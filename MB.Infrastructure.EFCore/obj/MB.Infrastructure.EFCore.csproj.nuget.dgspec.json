@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Practice\\MasterBlog\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj": {}
+    "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Practice\\MasterBlog\\MB.Domain\\MB.Domain.csproj": {
+    "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Domain\\MB.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Practice\\MasterBlog\\MB.Domain\\MB.Domain.csproj",
+        "projectUniqueName": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Domain\\MB.Domain.csproj",
         "projectName": "MB.Domain",
-        "projectPath": "D:\\C#\\Practice\\MasterBlog\\MB.Domain\\MB.Domain.csproj",
-        "packagesPath": "C:\\Users\\Abolfazl\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Practice\\MasterBlog\\MB.Domain\\obj\\",
+        "projectPath": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Domain\\MB.Domain.csproj",
+        "packagesPath": "C:\\Users\\1014382\\.nuget\\packages\\",
+        "outputPath": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Abolfazl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\1014382\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -49,7 +50,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,25 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.121\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\Practice\\MasterBlog\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj": {
+    "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Practice\\MasterBlog\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
+        "projectUniqueName": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
         "projectName": "MB.Infrastructure.EFCore",
-        "projectPath": "D:\\C#\\Practice\\MasterBlog\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
-        "packagesPath": "C:\\Users\\Abolfazl\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Practice\\MasterBlog\\MB.Infrastructure.EFCore\\obj\\",
+        "projectPath": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
+        "packagesPath": "C:\\Users\\1014382\\.nuget\\packages\\",
+        "outputPath": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.EFCore\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Abolfazl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\1014382\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,8 +88,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\C#\\Practice\\MasterBlog\\MB.Domain\\MB.Domain.csproj": {
-                "projectPath": "D:\\C#\\Practice\\MasterBlog\\MB.Domain\\MB.Domain.csproj"
+              "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Domain\\MB.Domain.csproj": {
+                "projectPath": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Domain\\MB.Domain.csproj"
               }
             }
           }
@@ -100,6 +98,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -127,7 +130,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -136,7 +140,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.121\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

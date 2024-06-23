@@ -1,4 +1,5 @@
 ﻿using MB.Domain.ArticleCategoryAgg;
+using MB.Infrastructure.EFCore.Mapping;
 using Microsoft.EntityFrameworkCore;
 
 namespace MB.Infrastructure.EFCore
@@ -12,6 +13,7 @@ namespace MB.Infrastructure.EFCore
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.ApplyConfiguration(new ArticleCategoryMapping());
             base.OnModelCreating(modelBuilder);
         }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cVjbu+pINqdZ3DdUXniviV6eNs/q2niQdvy8D15Gtb/Ef7mtuyztohc2YW6FZWNZgq8woQzXeErflX4rzV54xA==",
+  "dgSpecHash": "Zhqi+0n5gOdcmIGLwJyBN7CGTs5951l07P5BQtMTVBeVegtEM8j+yN9L2egO/YDbfMDxeY4VhjB/FZlnai+uMQ==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Practice\\MasterBlog\\MB.Domain\\MB.Domain.csproj",
+  "projectFilePath": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Domain\\MB.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

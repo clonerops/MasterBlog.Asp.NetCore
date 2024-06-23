@@ -13,5 +13,10 @@
             IsDeleted = false;
             CreationDate = DateTime.Now;
         }
+
+        public void Edit(string title)
+        {
+            Title = title;
+        }
     }
 }
