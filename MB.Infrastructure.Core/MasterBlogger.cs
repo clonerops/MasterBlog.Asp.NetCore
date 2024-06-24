@@ -14,11 +14,13 @@ namespace MB.Infrastructure.Core
     {
         public static void Config(IServiceCollection services, string connectionString)
         {
-            services.AddTransient<IArticleCategoryApplication, ArticleCategoryApplication>();
-            services.AddTransient<IArticleCategoryRepository, ArticleCategoryRepository>();
 
             services.AddTransient<IArticleApplication, ArticleApplication>();
             services.AddTransient<IArticleRepository, ArticleRepository>();
+
+            services.AddTransient<IArticleCategoryApplication, ArticleCategoryApplication>();
+            services.AddTransient<IArticleCategoryRepository, ArticleCategoryRepository>();
+
 
             services.AddDbContext<MasterBlogContext>(x => x.UseSqlServer(connectionString));
         }

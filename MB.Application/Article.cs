@@ -1,14 +1,13 @@
 ﻿using MB.Application.contracts.Article;
 using MB.Domain.ArticleAgg;
-using MB.Infrastructure.EFCore.Repository;
 
 namespace MB.Application
 {
     public class ArticleApplication : IArticleApplication
     {
-        private readonly ArticleRepository _articleRepository;
+        private readonly IArticleRepository _articleRepository;
 
-        public ArticleApplication(ArticleRepository articleRepository)
+        public ArticleApplication(IArticleRepository articleRepository)
         {
             _articleRepository = articleRepository;
         }

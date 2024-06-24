@@ -10,6 +10,10 @@ namespace MB.Domain.ArticleCategoryAgg
         public DateTime CreationDate { get; set; }
         public ICollection<Article> Articles { get; set; }
 
+        protected ArticleCategory()
+        {
+
+        }
         public ArticleCategory(string title)
         {
             Title = title;

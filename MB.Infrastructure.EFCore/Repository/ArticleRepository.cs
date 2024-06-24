@@ -11,9 +11,9 @@ namespace MB.Infrastructure.EFCore.Repository
             _context = context;
         }
 
-        public void Create(Article command)
+        public void Create(Article entity)
         {
-            _context.Articles.Add(command);
+            _context.Articles.Add(entity);
             _context.SaveChanges();
         }
 

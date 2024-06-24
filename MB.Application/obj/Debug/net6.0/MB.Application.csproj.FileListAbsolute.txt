@@ -33,5 +33,3 @@ D:\C#\Practice\MasterBlog\MB.Application\obj\Debug\net6.0\MB.Application.csproj.
 D:\C#\Practice\MasterBlog\MB.Application\obj\Debug\net6.0\MB.Application.dll
 D:\C#\Practice\MasterBlog\MB.Application\obj\Debug\net6.0\ref\MB.Application.dll
 D:\C#\Practice\MasterBlog\MB.Application\obj\Debug\net6.0\MB.Application.pdb
-D:\C#\Practice\MasterBlog\MB.Application\bin\Debug\net6.0\MB.Infrastructure.EFCore.dll
-D:\C#\Practice\MasterBlog\MB.Application\bin\Debug\net6.0\MB.Infrastructure.EFCore.pdb

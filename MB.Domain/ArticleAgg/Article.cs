@@ -18,6 +18,10 @@ namespace MB.Domain.ArticleAgg
         public DateTime CreationDate { get; set; }
         public long ArticleCategoryId { get; set; }
         public ArticleCategory ArticleCategory { get; set; }
+        protected Article()
+        {
+
+        }
 
         public Article(string title, string shortDescription, string image, string content, long articleCategoryId)
         {

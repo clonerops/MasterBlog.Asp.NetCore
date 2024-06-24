@@ -600,8 +600,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "MB.Application.contracts": "1.0.0",
-          "MB.Domain": "1.0.0",
-          "MB.Infrastructure.EFCore": "1.0.0"
+          "MB.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/MB.Application.dll": {}

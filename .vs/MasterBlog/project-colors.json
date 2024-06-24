@@ -25,7 +25,12 @@
       "ProjectGuid": "ffcc882f-2eb5-44a0-8f40-19b5250c152c",
       "DisplayName": "MB.Presentaion.Razor",
       "ColorIndex": 4
+    },
+    "cba47f6b-43a0-4ba9-8602-5b427967e92b": {
+      "ProjectGuid": "cba47f6b-43a0-4ba9-8602-5b427967e92b",
+      "DisplayName": "MB.Infrastructure.Core",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }

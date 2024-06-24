@@ -10,7 +10,6 @@ namespace MB.Infrastructure.EFCore
         public DbSet<ArticleCategory> ArticleCategories { get; set; }
         public DbSet<Article> Articles { get; set; }
 
-        //public object Article { get; internal set; }
 
         public MasterBlogContext(DbContextOptions<MasterBlogContext> options) : base(options)
         {
