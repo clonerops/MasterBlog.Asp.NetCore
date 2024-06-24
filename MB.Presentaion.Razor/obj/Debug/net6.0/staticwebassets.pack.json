@@ -1,0 +1,537 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\css\\fontastic.css",
+      "PackagePath": "staticwebassets\\css\\fontastic.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\css\\style.blue.css",
+      "PackagePath": "staticwebassets\\css\\style.blue.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\css\\style.default.css",
+      "PackagePath": "staticwebassets\\css\\style.default.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\css\\style.green.css",
+      "PackagePath": "staticwebassets\\css\\style.green.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\css\\style.pink.css",
+      "PackagePath": "staticwebassets\\css\\style.pink.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\css\\style.red.css",
+      "PackagePath": "staticwebassets\\css\\style.red.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\css\\style.sea.css",
+      "PackagePath": "staticwebassets\\css\\style.sea.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\css\\style.violet.css",
+      "PackagePath": "staticwebassets\\css\\style.violet.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\fonts\\blog.eot",
+      "PackagePath": "staticwebassets\\fonts\\blog.eot"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\fonts\\blog.svg",
+      "PackagePath": "staticwebassets\\fonts\\blog.svg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\fonts\\blog.ttf",
+      "PackagePath": "staticwebassets\\fonts\\blog.ttf"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\fonts\\blog.woff",
+      "PackagePath": "staticwebassets\\fonts\\blog.woff"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\icons-reference\\fonts\\blog.eot",
+      "PackagePath": "staticwebassets\\icons-reference\\fonts\\blog.eot"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\icons-reference\\fonts\\blog.svg",
+      "PackagePath": "staticwebassets\\icons-reference\\fonts\\blog.svg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\icons-reference\\fonts\\blog.ttf",
+      "PackagePath": "staticwebassets\\icons-reference\\fonts\\blog.ttf"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\icons-reference\\fonts\\blog.woff",
+      "PackagePath": "staticwebassets\\icons-reference\\fonts\\blog.woff"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\icons-reference\\icons-reference.html",
+      "PackagePath": "staticwebassets\\icons-reference\\icons-reference.html"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\icons-reference\\styles.css",
+      "PackagePath": "staticwebassets\\icons-reference\\styles.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-1.jpg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-2.jpg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-3.jpg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\blog-post-1.jpeg",
+      "PackagePath": "staticwebassets\\img\\blog-post-1.jpeg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\blog-post-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-post-2.jpg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\blog-post-3.jpeg",
+      "PackagePath": "staticwebassets\\img\\blog-post-3.jpeg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\blog-post-4.jpeg",
+      "PackagePath": "staticwebassets\\img\\blog-post-4.jpeg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\divider-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\divider-bg.jpg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\featured-pic-1.jpeg",
+      "PackagePath": "staticwebassets\\img\\featured-pic-1.jpeg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\featured-pic-2.jpeg",
+      "PackagePath": "staticwebassets\\img\\featured-pic-2.jpeg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\featured-pic-3.jpeg",
+      "PackagePath": "staticwebassets\\img\\featured-pic-3.jpeg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-1.jpg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\gallery-2.jpeg",
+      "PackagePath": "staticwebassets\\img\\gallery-2.jpeg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-2.jpg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-3.jpg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-4.jpg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\hero.jpg",
+      "PackagePath": "staticwebassets\\img\\hero.jpg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\logo-white.png",
+      "PackagePath": "staticwebassets\\img\\logo-white.png"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\small-thumbnail-1.jpg",
+      "PackagePath": "staticwebassets\\img\\small-thumbnail-1.jpg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\small-thumbnail-2.jpg",
+      "PackagePath": "staticwebassets\\img\\small-thumbnail-2.jpg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\small-thumbnail-3.jpg",
+      "PackagePath": "staticwebassets\\img\\small-thumbnail-3.jpg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\template-mac.png",
+      "PackagePath": "staticwebassets\\img\\template-mac.png"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\img\\user.svg",
+      "PackagePath": "staticwebassets\\img\\user.svg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\js\\front.js",
+      "PackagePath": "staticwebassets\\js\\front.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\@fancyapps\\fancybox\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\vendor\\@fancyapps\\fancybox\\jquery.fancybox.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\@fancyapps\\fancybox\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\vendor\\@fancyapps\\fancybox\\jquery.fancybox.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\@fancyapps\\fancybox\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\@fancyapps\\fancybox\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\@fancyapps\\fancybox\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\@fancyapps\\fancybox\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\font-awesome\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\jquery.cookie\\MIT-LICENSE.txt",
+      "PackagePath": "staticwebassets\\vendor\\jquery.cookie\\MIT-LICENSE.txt"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\jquery.cookie\\component.json",
+      "PackagePath": "staticwebassets\\vendor\\jquery.cookie\\component.json"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\jquery.cookie\\cookie.jquery.json",
+      "PackagePath": "staticwebassets\\vendor\\jquery.cookie\\cookie.jquery.json"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\jquery.cookie\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery.cookie\\jquery.cookie.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\jquery\\core.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\core.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\popper.js\\esm\\popper-utils.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\esm\\popper-utils.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\popper.js\\esm\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\esm\\popper-utils.min.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\popper.js\\esm\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\esm\\popper.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\popper.js\\esm\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\esm\\popper.min.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\popper.js\\popper-utils.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\popper-utils.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\popper.js\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\popper-utils.min.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\popper.js\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\popper.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\popper.js\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\popper.js\\umd\\popper-utils.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\umd\\popper-utils.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\popper.js\\umd\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\umd\\popper-utils.min.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\popper.js\\umd\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\umd\\popper.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\popper.js\\umd\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\umd\\popper.min.js"
+    },
+    {
+      "Id": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\wwwroot\\vendor\\popper.js\\umd\\poppper.js.flow",
+      "PackagePath": "staticwebassets\\vendor\\popper.js\\umd\\poppper.js.flow"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MB.Presentaion.Razor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MB.Presentaion.Razor.props",
+      "PackagePath": "build\\MB.Presentaion.Razor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MB.Presentaion.Razor.props",
+      "PackagePath": "buildMultiTargeting\\MB.Presentaion.Razor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MB.Presentaion.Razor.props",
+      "PackagePath": "buildTransitive\\MB.Presentaion.Razor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -20,7 +20,12 @@
       "ProjectGuid": "a16c59ae-e5a7-4cca-b00a-2fe10565a24a",
       "DisplayName": "MB.Infrastructure.EFCore",
       "ColorIndex": 3
+    },
+    "ffcc882f-2eb5-44a0-8f40-19b5250c152c": {
+      "ProjectGuid": "ffcc882f-2eb5-44a0-8f40-19b5250c152c",
+      "DisplayName": "MB.Presentaion.Razor",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

@@ -13,13 +13,25 @@ namespace MB.Infrastructure.EFCore.Repository
 
         public void Create(ArticleCategory entity)
         {
-            throw new NotImplementedException();
-            
+            _context.ArticleCategories.Add(entity);
+            SaveChanges();
+
+
         }
 
         public List<ArticleCategory> GetAll()
         {
-            return _context.ArticleCategories.ToList();
+            return _context.ArticleCategories.OrderByDescending(x => x.Id).ToList();
+        }
+
+        public ArticleCategory GetBy(long id)
+        {
+            return _context.ArticleCategories.FirstOrDefault(x => x.Id == id);
+        }
+
+        public void SaveChanges()
+        {
+            _context.SaveChanges();
         }
     }
 }
