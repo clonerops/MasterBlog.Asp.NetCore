@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MB.Application.contracts
+namespace MB.Application.contracts.ArticleCategory
 {
     public class CreateArticleCategory
     {

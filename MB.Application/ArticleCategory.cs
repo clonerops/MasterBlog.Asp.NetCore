@@ -1,4 +1,4 @@
-﻿using MB.Application.contracts;
+﻿using MB.Application.contracts.ArticleCategory;
 using MB.Domain.ArticleCategoryAgg;
 
 namespace MB.Application
@@ -46,11 +46,29 @@ namespace MB.Application
                 {
                     Id = articleCategory.Id,
                     Title = articleCategory.Title,
+                    IsDeleted = articleCategory.IsDeleted,
                     CreationDate = articleCategory.CreationDate.ToString(),
 
                 });
             }
             return result;
         }
+
+        public void Remove(long id)
+        {
+            var articleCategory = _articleCategoryRepository.GetBy(id);
+            articleCategory.Remove();
+            _articleCategoryRepository.SaveChanges();
+
+        }
+
+        public void Activate(long id)
+        {
+            var articleCategory = _articleCategoryRepository.GetBy(id);
+            articleCategory.Activate();
+            _articleCategoryRepository.SaveChanges();
+        }
+
+
     }
 }

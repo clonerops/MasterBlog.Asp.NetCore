@@ -30,6 +30,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcQXJ0aWNsZUNhdGVnb3J5TWFuYWdtZW50XExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/myself/C\#/MasterBlog.Asp.NetCore/MB.Presentaion.Razor/Areas/Admin/Pages/ArticleManagment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcQXJ0aWNsZU1hbmFnbWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/myself/C\#/MasterBlog.Asp.NetCore/MB.Presentaion.Razor/Areas/Admin/Pages/ArticleManagment/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcQXJ0aWNsZU1hbmFnbWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/myself/C\#/MasterBlog.Asp.NetCore/MB.Presentaion.Razor/Areas/Admin/Pages/ArticleManagment/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcQXJ0aWNsZU1hbmFnbWVudFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/myself/C\#/MasterBlog.Asp.NetCore/MB.Presentaion.Razor/Areas/Admin/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

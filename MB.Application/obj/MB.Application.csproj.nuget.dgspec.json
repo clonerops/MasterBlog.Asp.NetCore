@@ -154,7 +154,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application.contracts\\MB.Application.contracts.csproj": {
+                "projectPath": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application.contracts\\MB.Application.contracts.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

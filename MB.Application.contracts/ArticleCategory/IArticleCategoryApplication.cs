@@ -1,4 +1,5 @@
-﻿namespace MB.Application.contracts
+﻿
+namespace MB.Application.contracts.ArticleCategory
 {
     public interface IArticleCategoryApplication
     {
@@ -6,5 +7,7 @@
         void Create(CreateArticleCategory command);
         void Edit(EditArticleCategory command);
         EditArticleCategory GetBy(long id);
+        void Remove(long id);
+        void Activate(long id);
     }
 }

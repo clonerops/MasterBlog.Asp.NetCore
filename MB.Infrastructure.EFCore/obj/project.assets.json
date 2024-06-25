@@ -780,9 +780,22 @@
           }
         }
       },
+      "MB.Application.contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MB.Application.contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MB.Application.contracts.dll": {}
+        }
+      },
       "MB.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MB.Application.contracts": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MB.Domain.dll": {}
         },
@@ -2009,6 +2022,11 @@
         "version.txt"
       ]
     },
+    "MB.Application.contracts/1.0.0": {
+      "type": "project",
+      "path": "../MB.Application.contracts/MB.Application.contracts.csproj",
+      "msbuildProject": "../MB.Application.contracts/MB.Application.contracts.csproj"
+    },
     "MB.Domain/1.0.0": {
       "type": "project",
       "path": "../MB.Domain/MB.Domain.csproj",
@@ -2017,6 +2035,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "MB.Application.contracts >= 1.0.0",
       "MB.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.0",
@@ -2050,6 +2069,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application.contracts\\MB.Application.contracts.csproj": {
+              "projectPath": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application.contracts\\MB.Application.contracts.csproj"
+            },
             "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Domain\\MB.Domain.csproj": {
               "projectPath": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Domain\\MB.Domain.csproj"
             }

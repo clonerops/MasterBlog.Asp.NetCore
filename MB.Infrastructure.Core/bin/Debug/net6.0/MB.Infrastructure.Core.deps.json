@@ -474,12 +474,16 @@
         }
       },
       "MB.Domain/1.0.0": {
+        "dependencies": {
+          "MB.Application.contracts": "1.0.0"
+        },
         "runtime": {
           "MB.Domain.dll": {}
         }
       },
       "MB.Infrastructure.EFCore/1.0.0": {
         "dependencies": {
+          "MB.Application.contracts": "1.0.0",
           "MB.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.0"
