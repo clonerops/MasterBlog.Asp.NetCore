@@ -1,5 +1,6 @@
 using MB.Application.contracts.Article;
 using MB.Application.contracts.ArticleCategory;
+using MB.Domain.ArticleAgg;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -28,6 +29,12 @@ namespace MB.Presentaion.Razor.Areas.Admin.Pages.ArticleManagment
                 .List()
                 .Select(x => new SelectListItem(x.Title, x.Id.ToString())).ToList();
 
+        }
+
+        public RedirectToPageResult OnPost()
+        {
+            articleApplication.Edit(Article);
+            return RedirectToPage("./List");
         }
     }
 }

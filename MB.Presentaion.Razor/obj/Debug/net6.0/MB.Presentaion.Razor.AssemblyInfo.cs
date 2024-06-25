@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MB.Presentaion.Razor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30686924f614d7a43f58fa5b33968b25e8d6446b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b18f6622cb784cc44ca1176ffc7de90cbcf3f1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MB.Presentaion.Razor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MB.Presentaion.Razor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
