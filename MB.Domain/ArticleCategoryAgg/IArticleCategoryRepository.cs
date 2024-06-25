@@ -2,8 +2,8 @@
 {
     public interface IArticleCategoryRepository
     {
-        List<ArticleCategory> GetAll();
         ArticleCategory GetBy(long id);
+        List<ArticleCategory> GetAll();
         void SaveChanges();
         void Create(ArticleCategory entity);
     }

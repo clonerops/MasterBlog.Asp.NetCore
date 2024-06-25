@@ -47,6 +47,7 @@ namespace MB.Application
             {
                 result.Add(new ArticleViewModel
                 {
+                    Id = article.Id,
                     Title = article.Title,
                     ShortDescription = article.ShortDescription,
                     Image = article.Image,
