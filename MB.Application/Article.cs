@@ -12,6 +12,13 @@ namespace MB.Application
             _articleRepository = articleRepository;
         }
 
+        public void Activate(long id)
+        {
+            var article = _articleRepository.GetBy(id);
+            article.Activate();
+            _articleRepository.SaveChanges();
+        }
+
         public void Create(CreateArticle command)
         {
             var article = new Article(command.Title, command.ShortDescription, command.Image, command.Content, command.ArticleCategoryId);
@@ -60,6 +67,13 @@ namespace MB.Application
             }
             return result;
  
+        }
+
+        public void Remove(long id)
+        {
+            var article = _articleRepository.GetBy(id);
+            article.Remove();
+            _articleRepository.SaveChanges();
         }
     }
 }

@@ -136,3 +136,5 @@ D:\C#\Practice\MasterBlog\MB.Presentaion.Razor\obj\Debug\net6.0\MB.Presentaion.R
 D:\C#\Practice\MasterBlog\MB.Presentaion.Razor\obj\Debug\net6.0\ref\MB.Presentaion.Razor.dll
 D:\C#\Practice\MasterBlog\MB.Presentaion.Razor\obj\Debug\net6.0\MB.Presentaion.Razor.pdb
 D:\C#\Practice\MasterBlog\MB.Presentaion.Razor\obj\Debug\net6.0\MB.Presentaion.Razor.genruntimeconfig.cache
+D:\myself\C#\MasterBlog.Asp.NetCore\MB.Presentaion.Razor\bin\Debug\net6.0\MB.Infrastructure.Query.dll
+D:\myself\C#\MasterBlog.Asp.NetCore\MB.Presentaion.Razor\bin\Debug\net6.0\MB.Infrastructure.Query.pdb

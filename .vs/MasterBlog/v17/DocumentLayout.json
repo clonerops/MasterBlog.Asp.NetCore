@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.presentaion.razor\\areas\\admin\\pages\\articlemanagment\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|solutionrelative:mb.presentaion.razor\\areas\\admin\\pages\\articlemanagment\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|d:\\myself\\c#\\masterblog.asp.netcore\\mb.presentaion.razor\\pages\\articledetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|solutionrelative:mb.presentaion.razor\\pages\\articledetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.presentaion.razor\\areas\\admin\\pages\\articlecategorymanagment\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|solutionrelative:mb.presentaion.razor\\areas\\admin\\pages\\articlecategorymanagment\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86A5305A-ABF8-477E-B2EC-7A09F2B3CF55}|MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj|d:\\myself\\c#\\masterblog.asp.netcore\\mb.infrastructure.query\\articlequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A5305A-ABF8-477E-B2EC-7A09F2B3CF55}|MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj|solutionrelative:mb.infrastructure.query\\articlequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|d:\\myself\\c#\\masterblog.asp.netcore\\mb.presentaion.razor\\pages\\articledetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|solutionrelative:mb.presentaion.razor\\pages\\articledetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A5305A-ABF8-477E-B2EC-7A09F2B3CF55}|MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj|d:\\myself\\c#\\masterblog.asp.netcore\\mb.infrastructure.query\\articlequeryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A5305A-ABF8-477E-B2EC-7A09F2B3CF55}|MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj|solutionrelative:mb.infrastructure.query\\articlequeryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A5305A-ABF8-477E-B2EC-7A09F2B3CF55}|MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj|d:\\myself\\c#\\masterblog.asp.netcore\\mb.infrastructure.query\\iarticlequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A5305A-ABF8-477E-B2EC-7A09F2B3CF55}|MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj|solutionrelative:mb.infrastructure.query\\iarticlequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA47F6B-43A0-4BA9-8602-5B427967E92B}|MB.Infrastructure.Core\\MB.Infrastructure.Core.csproj|d:\\myself\\c#\\masterblog.asp.netcore\\mb.infrastructure.core\\masterblogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA47F6B-43A0-4BA9-8602-5B427967E92B}|MB.Infrastructure.Core\\MB.Infrastructure.Core.csproj|solutionrelative:mb.infrastructure.core\\masterblogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|d:\\myself\\c#\\masterblog.asp.netcore\\mb.presentaion.razor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|solutionrelative:mb.presentaion.razor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|d:\\myself\\c#\\masterblog.asp.netcore\\mb.presentaion.razor\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|solutionrelative:mb.presentaion.razor\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A16C59AE-E5A7-4CCA-B00A-2FE10565A24A}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.infrastructure.efcore\\masterblogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A16C59AE-E5A7-4CCA-B00A-2FE10565A24A}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|solutionrelative:mb.infrastructure.efcore\\masterblogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.presentaion.razor\\areas\\admin\\pages\\articlemanagment\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|solutionrelative:mb.presentaion.razor\\areas\\admin\\pages\\articlemanagment\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.presentaion.razor\\areas\\admin\\pages\\articlemanagment\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,15 +51,35 @@
       "RelativeMoniker": "D:0:0:{C39F523D-DFED-4BA2-9D47-05B99030C9A5}|MB.Application\\MB.Application.csproj|solutionrelative:mb.application\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.presentaion.razor\\areas\\admin\\pages\\articlemanagment\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|solutionrelative:mb.presentaion.razor\\areas\\admin\\pages\\articlemanagment\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECC58579-B31B-4611-A1B6-AA1013816820}|MB.Application.contracts\\MB.Application.contracts.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.application.contracts\\article\\iarticleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC58579-B31B-4611-A1B6-AA1013816820}|MB.Application.contracts\\MB.Application.contracts.csproj|solutionrelative:mb.application.contracts\\article\\iarticleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C39F523D-DFED-4BA2-9D47-05B99030C9A5}|MB.Application\\MB.Application.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.application\\articlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39F523D-DFED-4BA2-9D47-05B99030C9A5}|MB.Application\\MB.Application.csproj|solutionrelative:mb.application\\articlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD1DBD3-8D44-4A12-BD24-FC16F870DAFE}|MB.Domain\\MB.Domain.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.domain\\articleagg\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD1DBD3-8D44-4A12-BD24-FC16F870DAFE}|MB.Domain\\MB.Domain.csproj|solutionrelative:mb.domain\\articleagg\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD1DBD3-8D44-4A12-BD24-FC16F870DAFE}|MB.Domain\\MB.Domain.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.domain\\articleagg\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD1DBD3-8D44-4A12-BD24-FC16F870DAFE}|MB.Domain\\MB.Domain.csproj|solutionrelative:mb.domain\\articleagg\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|d:\\myself\\c#\\masterblog.asp.netcore\\mb.presentaion.razor\\areas\\admin\\pages\\articlemanagment\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|solutionrelative:mb.presentaion.razor\\areas\\admin\\pages\\articlemanagment\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.presentaion.razor\\areas\\admin\\pages\\articlecategorymanagment\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|solutionrelative:mb.presentaion.razor\\areas\\admin\\pages\\articlecategorymanagment\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECC58579-B31B-4611-A1B6-AA1013816820}|MB.Application.contracts\\MB.Application.contracts.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.application.contracts\\article\\articleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECC58579-B31B-4611-A1B6-AA1013816820}|MB.Application.contracts\\MB.Application.contracts.csproj|solutionrelative:mb.application.contracts\\article\\articleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|d:\\myself\\c#\\masterblog.asp.netcore\\mb.presentaion.razor\\areas\\admin\\pages\\articlemanagment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.presentaion.razor\\areas\\admin\\pages\\articlemanagment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FFCC882F-2EB5-44A0-8F40-19B5250C152C}|MB.Presentaion.Razor\\MB.Presentaion.Razor.csproj|solutionrelative:mb.presentaion.razor\\areas\\admin\\pages\\articlemanagment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -39,28 +91,12 @@
       "RelativeMoniker": "D:0:0:{A16C59AE-E5A7-4CCA-B00A-2FE10565A24A}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|solutionrelative:mb.infrastructure.efcore\\repository\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BD1DBD3-8D44-4A12-BD24-FC16F870DAFE}|MB.Domain\\MB.Domain.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.domain\\articleagg\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BD1DBD3-8D44-4A12-BD24-FC16F870DAFE}|MB.Domain\\MB.Domain.csproj|solutionrelative:mb.domain\\articleagg\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0BD1DBD3-8D44-4A12-BD24-FC16F870DAFE}|MB.Domain\\MB.Domain.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.domain\\articlecategoryagg\\iarticlecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BD1DBD3-8D44-4A12-BD24-FC16F870DAFE}|MB.Domain\\MB.Domain.csproj|solutionrelative:mb.domain\\articlecategoryagg\\iarticlecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BD1DBD3-8D44-4A12-BD24-FC16F870DAFE}|MB.Domain\\MB.Domain.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.domain\\articlecategoryagg\\articlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BD1DBD3-8D44-4A12-BD24-FC16F870DAFE}|MB.Domain\\MB.Domain.csproj|solutionrelative:mb.domain\\articlecategoryagg\\articlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BD1DBD3-8D44-4A12-BD24-FC16F870DAFE}|MB.Domain\\MB.Domain.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.domain\\articleagg\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BD1DBD3-8D44-4A12-BD24-FC16F870DAFE}|MB.Domain\\MB.Domain.csproj|solutionrelative:mb.domain\\articleagg\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C39F523D-DFED-4BA2-9D47-05B99030C9A5}|MB.Application\\MB.Application.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.application\\articlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C39F523D-DFED-4BA2-9D47-05B99030C9A5}|MB.Application\\MB.Application.csproj|solutionrelative:mb.application\\articlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC58579-B31B-4611-A1B6-AA1013816820}|MB.Application.contracts\\MB.Application.contracts.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.application.contracts\\article\\iarticleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC58579-B31B-4611-A1B6-AA1013816820}|MB.Application.contracts\\MB.Application.contracts.csproj|solutionrelative:mb.application.contracts\\article\\iarticleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECC58579-B31B-4611-A1B6-AA1013816820}|MB.Application.contracts\\MB.Application.contracts.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.application.contracts\\article\\createarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,10 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A16C59AE-E5A7-4CCA-B00A-2FE10565A24A}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.infrastructure.efcore\\mb.infrastructure.efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A16C59AE-E5A7-4CCA-B00A-2FE10565A24A}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|solutionrelative:mb.infrastructure.efcore\\mb.infrastructure.efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A16C59AE-E5A7-4CCA-B00A-2FE10565A24A}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.infrastructure.efcore\\masterblogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A16C59AE-E5A7-4CCA-B00A-2FE10565A24A}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|solutionrelative:mb.infrastructure.efcore\\masterblogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A16C59AE-E5A7-4CCA-B00A-2FE10565A24A}|MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj|D:\\myself\\C#\\MasterBlog.Asp.NetCore\\mb.infrastructure.efcore\\mapping\\articlecategorymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -130,60 +162,217 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IArticleRepository.cs",
-              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Domain\\ArticleAgg\\IArticleRepository.cs",
-              "RelativeDocumentMoniker": "MB.Domain\\ArticleAgg\\IArticleRepository.cs",
-              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Domain\\ArticleAgg\\IArticleRepository.cs",
-              "RelativeToolTip": "MB.Domain\\ArticleAgg\\IArticleRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "ArticleDetails.cshtml.cs",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Pages\\ArticleDetails.cshtml.cs",
+              "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Pages\\ArticleDetails.cshtml.cs",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Pages\\ArticleDetails.cshtml.cs",
+              "RelativeToolTip": "MB.Presentaion.Razor\\Pages\\ArticleDetails.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:33:38.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ArticleRepository.cs",
-              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.EFCore\\Repository\\ArticleRepository.cs",
-              "RelativeDocumentMoniker": "MB.Infrastructure.EFCore\\Repository\\ArticleRepository.cs",
-              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.EFCore\\Repository\\ArticleRepository.cs",
-              "RelativeToolTip": "MB.Infrastructure.EFCore\\Repository\\ArticleRepository.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAIwBUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:33:16.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Edit.cshtml",
-              "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Edit.cshtml",
-              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Edit.cshtml",
-              "RelativeToolTip": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T11:43:17.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Edit.cshtml",
-              "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Edit.cshtml",
-              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Edit.cshtml",
-              "RelativeToolTip": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Edit.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADoAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T10:28:01.888Z",
+              "WhenOpened": "2024-06-26T07:21:45.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
+              "Title": "ArticleDetails.cshtml",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Pages\\ArticleDetails.cshtml",
+              "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Pages\\ArticleDetails.cshtml",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Pages\\ArticleDetails.cshtml",
+              "RelativeToolTip": "MB.Presentaion.Razor\\Pages\\ArticleDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T07:19:28.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MasterBlogger.cs",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.Core\\MasterBlogger.cs",
+              "RelativeDocumentMoniker": "MB.Infrastructure.Core\\MasterBlogger.cs",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.Core\\MasterBlogger.cs",
+              "RelativeToolTip": "MB.Infrastructure.Core\\MasterBlogger.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:11:07.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "MB.Presentaion.Razor\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:06:57.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Pages\\Index.cshtml",
+              "RelativeToolTip": "MB.Presentaion.Razor\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwCAAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T07:06:45.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleQuery.cs",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.Query\\ArticleQuery.cs",
+              "RelativeDocumentMoniker": "MB.Infrastructure.Query\\ArticleQuery.cs",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.Query\\ArticleQuery.cs",
+              "RelativeToolTip": "MB.Infrastructure.Query\\ArticleQuery.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:03:25.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IArticleQuery.cs",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.Query\\IArticleQuery.cs",
+              "RelativeDocumentMoniker": "MB.Infrastructure.Query\\IArticleQuery.cs",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.Query\\IArticleQuery.cs",
+              "RelativeToolTip": "MB.Infrastructure.Query\\IArticleQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:02:20.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleQueryView.cs",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.Query\\ArticleQueryView.cs",
+              "RelativeDocumentMoniker": "MB.Infrastructure.Query\\ArticleQueryView.cs",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.Query\\ArticleQueryView.cs",
+              "RelativeToolTip": "MB.Infrastructure.Query\\ArticleQueryView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:00:21.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Edit.cshtml.cs",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Edit.cshtml.cs",
+              "RelativeToolTip": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Edit.cshtml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:29:32.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\List.cshtml",
+              "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\List.cshtml",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\List.cshtml",
+              "RelativeToolTip": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\List.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T08:18:20.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "List.cshtml.cs",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\List.cshtml.cs",
+              "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\List.cshtml.cs",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\List.cshtml.cs",
+              "RelativeToolTip": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\List.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:46:05.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ArticleViewModel.cs",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application.contracts\\Article\\ArticleViewModel.cs",
+              "RelativeDocumentMoniker": "MB.Application.contracts\\Article\\ArticleViewModel.cs",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application.contracts\\Article\\ArticleViewModel.cs",
+              "RelativeToolTip": "MB.Application.contracts\\Article\\ArticleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:33:59.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Article.cs",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application\\Article.cs",
+              "RelativeDocumentMoniker": "MB.Application\\Article.cs",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application\\Article.cs",
+              "RelativeToolTip": "MB.Application\\Article.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:56:23.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Edit.cshtml.cs",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Edit.cshtml.cs",
+              "RelativeToolTip": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T11:43:26.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Article.cs",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Domain\\ArticleAgg\\Article.cs",
+              "RelativeDocumentMoniker": "MB.Domain\\ArticleAgg\\Article.cs",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Domain\\ArticleAgg\\Article.cs",
+              "RelativeToolTip": "MB.Domain\\ArticleAgg\\Article.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADgvzQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:09:03.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MasterBlogContext.cs",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.EFCore\\MasterBlogContext.cs",
+              "RelativeDocumentMoniker": "MB.Infrastructure.EFCore\\MasterBlogContext.cs",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.EFCore\\MasterBlogContext.cs",
+              "RelativeToolTip": "MB.Infrastructure.EFCore\\MasterBlogContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:35:28.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "CreateArticle.cs",
               "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application.contracts\\Article\\CreateArticle.cs",
               "RelativeDocumentMoniker": "MB.Application.contracts\\Article\\CreateArticle.cs",
@@ -195,85 +384,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Edit.cshtml.cs",
-              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Edit.cshtml.cs",
-              "RelativeToolTip": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Edit.cshtml.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAqwCcAAAABAAAA",
+              "DocumentIndex": 15,
+              "Title": "IArticleRepository.cs",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Domain\\ArticleAgg\\IArticleRepository.cs",
+              "RelativeDocumentMoniker": "MB.Domain\\ArticleAgg\\IArticleRepository.cs",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Domain\\ArticleAgg\\IArticleRepository.cs",
+              "RelativeToolTip": "MB.Domain\\ArticleAgg\\IArticleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T10:29:32.36Z",
+              "WhenOpened": "2024-06-25T08:33:38.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\List.cshtml",
-              "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\List.cshtml",
-              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\List.cshtml",
-              "RelativeToolTip": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\List.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAwAAAA",
+              "DocumentIndex": 13,
+              "Title": "ArticleCategory.cs",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application\\ArticleCategory.cs",
+              "RelativeDocumentMoniker": "MB.Application\\ArticleCategory.cs",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application\\ArticleCategory.cs",
+              "RelativeToolTip": "MB.Application\\ArticleCategory.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwDYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:20:31.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IArticleApplication.cs",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application.contracts\\Article\\IArticleApplication.cs",
+              "RelativeDocumentMoniker": "MB.Application.contracts\\Article\\IArticleApplication.cs",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application.contracts\\Article\\IArticleApplication.cs",
+              "RelativeToolTip": "MB.Application.contracts\\Article\\IArticleApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T10:14:15.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Edit.cshtml",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Edit.cshtml",
+              "RelativeToolTip": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Edit.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADoAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-25T08:18:20.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T10:28:01.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "List.cshtml.cs",
-              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\List.cshtml.cs",
-              "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\List.cshtml.cs",
-              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\List.cshtml.cs",
-              "RelativeToolTip": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\List.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Edit.cshtml",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Edit.cshtml",
+              "RelativeToolTip": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-23T11:43:17.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.EFCore\\Repository\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "MB.Infrastructure.EFCore\\Repository\\ArticleRepository.cs",
+              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.EFCore\\Repository\\ArticleRepository.cs",
+              "RelativeToolTip": "MB.Infrastructure.EFCore\\Repository\\ArticleRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwBUAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T09:46:05.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T08:33:16.412Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ArticleViewModel.cs",
-              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application.contracts\\Article\\ArticleViewModel.cs",
-              "RelativeDocumentMoniker": "MB.Application.contracts\\Article\\ArticleViewModel.cs",
-              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application.contracts\\Article\\ArticleViewModel.cs",
-              "RelativeToolTip": "MB.Application.contracts\\Article\\ArticleViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:33:59.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Article.cs",
-              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application\\Article.cs",
-              "RelativeDocumentMoniker": "MB.Application\\Article.cs",
-              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application\\Article.cs",
-              "RelativeToolTip": "MB.Application\\Article.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAzwDEAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T09:56:23.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Edit.cshtml.cs",
-              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Edit.cshtml.cs",
-              "RelativeToolTip": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Edit.cshtml.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T11:43:26.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
               "Title": "IArticleCategoryRepository.cs",
               "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Domain\\ArticleCategoryAgg\\IArticleCategoryRepository.cs",
               "RelativeDocumentMoniker": "MB.Domain\\ArticleCategoryAgg\\IArticleCategoryRepository.cs",
@@ -285,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 23,
               "Title": "ArticleCategory.cs",
               "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
               "RelativeDocumentMoniker": "MB.Domain\\ArticleCategoryAgg\\ArticleCategory.cs",
@@ -297,43 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Article.cs",
-              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Domain\\ArticleAgg\\Article.cs",
-              "RelativeDocumentMoniker": "MB.Domain\\ArticleAgg\\Article.cs",
-              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Domain\\ArticleAgg\\Article.cs",
-              "RelativeToolTip": "MB.Domain\\ArticleAgg\\Article.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAADgvzQAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T10:09:03.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IArticleApplication.cs",
-              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application.contracts\\Article\\IArticleApplication.cs",
-              "RelativeDocumentMoniker": "MB.Application.contracts\\Article\\IArticleApplication.cs",
-              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application.contracts\\Article\\IArticleApplication.cs",
-              "RelativeToolTip": "MB.Application.contracts\\Article\\IArticleApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T10:14:15.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ArticleCategory.cs",
-              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application\\ArticleCategory.cs",
-              "RelativeDocumentMoniker": "MB.Application\\ArticleCategory.cs",
-              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Application\\ArticleCategory.cs",
-              "RelativeToolTip": "MB.Application\\ArticleCategory.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAUwDYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T10:20:31.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Create.cshtml.cs",
@@ -345,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "ArticleCategoryRepository.cs",
               "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.EFCore\\Repository\\ArticleCategoryRepository.cs",
               "RelativeDocumentMoniker": "MB.Infrastructure.EFCore\\Repository\\ArticleCategoryRepository.cs",
@@ -357,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Create.cshtml",
               "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleManagment\\Create.cshtml",
@@ -369,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "MB.Infrastructure.EFCore.csproj",
               "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
               "RelativeDocumentMoniker": "MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
@@ -381,19 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MasterBlogContext.cs",
-              "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.EFCore\\MasterBlogContext.cs",
-              "RelativeDocumentMoniker": "MB.Infrastructure.EFCore\\MasterBlogContext.cs",
-              "ToolTip": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.EFCore\\MasterBlogContext.cs",
-              "RelativeToolTip": "MB.Infrastructure.EFCore\\MasterBlogContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T10:35:28.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "List.cshtml.cs",
               "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\List.cshtml.cs",
               "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\List.cshtml.cs",
@@ -405,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "ArticleCategoryMapping.cs",
               "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Infrastructure.EFCore\\Mapping\\ArticleCategoryMapping.cs",
               "RelativeDocumentMoniker": "MB.Infrastructure.EFCore\\Mapping\\ArticleCategoryMapping.cs",
@@ -417,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "List.cshtml",
               "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\List.cshtml",
               "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\List.cshtml",
@@ -429,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Create.cshtml",
               "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Create.cshtml",
@@ -441,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": ".gitignore",
               "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -453,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\appsettings.json",
               "RelativeDocumentMoniker": "MB.Presentaion.Razor\\appsettings.json",
@@ -465,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Properties\\launchSettings.json",
@@ -477,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Program.cs",
               "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Program.cs",
@@ -489,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "D:\\myself\\C#\\MasterBlog.Asp.NetCore\\MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "MB.Presentaion.Razor\\Areas\\Admin\\Pages\\ArticleCategoryManagment\\Create.cshtml.cs",
