@@ -12,7 +12,6 @@ namespace MB.Domain.ArticleCategoryAgg
 
         protected ArticleCategory()
         {
-
         }
         public ArticleCategory(string title)
         {

@@ -1,4 +1,5 @@
 ﻿using MB.Domain.ArticleCategoryAgg;
+using MB.Domain.CommentAgg;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,6 +19,7 @@ namespace MB.Domain.ArticleAgg
         public DateTime CreationDate { get; set; }
         public long ArticleCategoryId { get; set; }
         public ArticleCategory ArticleCategory { get; set; }
+        public ICollection<Comment> Comments { get; set; }
         protected Article()
         {
 
